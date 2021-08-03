@@ -1,0 +1,51 @@
+.one {
+    background-image: url(https://www.klaviyo.com/wp-content/uploads/2016/09/abstract-background-1024x273.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 280px;
+    width: auto;
+    margin-top: -5%;
+    margin-right: -5%;
+    margin-left: -5%;
+}
+.two {
+    background-image: url(tl\ logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    margin-right: auto;
+    margin-left: 5%;
+    height: 12vw;
+    width: 12vw;
+    border-radius: 80px;
+    margin-top: -6%;
+}
+.project {
+    color: #264653;
+text-align: center;
+    font-size: 25px;
+    float: left;
+    margin-right: 0.5px;
+    font-family: fantasy
+    margin-left: 7vw;
+    margin-top: 3%;
+}
+.contact {
+    color: #264653;
+    text-align: center;
+    font-size: 25px;
+    float: right;
+    margin-right: 0.5px;
+    font-family: fantasy
+    margin-left: 7vw;
+    margin-top: 3%;
+}
+.text {
+    font-size: 22px; 
+    color: black;
+}
+<div class=".one"></div>
+<div class=".two"></div>
+<div class=".project"></div>
+<div class=".contact"></div>
